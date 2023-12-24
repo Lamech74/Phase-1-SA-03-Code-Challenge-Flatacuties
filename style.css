@@ -9,14 +9,14 @@ html {
   
   .logo{
     text-align: center;
-    background-color: rgb(49, 109, 179);
+    background-color: rgb(0, 4, 8);
     color: white;
     padding: 0.5em;
   }
   
   #character-bar {
     height: 15vh;
-    background: rgb(49, 109, 179);
+    background: rgb(68, 80, 92);
     display: flex;
     justify-content: space-around;
     align-items: center;
